@@ -1,2 +1,1 @@
-# 2026-sep
-Calendar for September, 2026.
+# 2026-sep.bauska.org
