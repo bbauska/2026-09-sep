@@ -1,0 +1,130 @@
+<!-- css/styles.css of 2026-sep.bauska.org -->
+body {
+  font-family:Helvetica;
+}
+table {
+  table-layout:fixed;
+  width:70%; 
+}
+.month-header {
+  background-image:url("https://2026-sep.bauska.org/images/2025-pretty-girl-bubbies.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:300px;
+  text-align:right;
+}
+
+h1 {
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+/* padding-bottom:150px; */
+.copyright-notice {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+
+.weekday-header {
+  background-color:#999;  /* dark gray */
+  border-color:#ddd;  /* very light gray */
+  border-style:solid;
+  letter-spacing:1px;
+  line-height:20px;  /* 25px; */
+}
+.week {
+  background-color:#ffff00;  /* eaeaea = very light gray */
+  height:75px;
+  margin:0;
+  text-align:left;
+  vertical-align:top;
+}
+
+.off-day {
+  background-color:#ddd;  /* very light gray */
+}
+
+ul {
+    font-size:75%;
+    list-style:none;
+    padding-left:20px;
+    padding-right:5px;
+}
+
+.event {
+    border-radius:5px;
+    color:#10171c;  /* very dark (mostly black) blue */
+    padding:5px;
+    margin:5px 0;
+}
+
+.labor {
+    background-color:#e8e193;  /* very soft yellow */
+}
+.cheese-pizza {
+    background-color:#c2e7e7;  /* light grayish cyan */
+}
+.natl-beer-lovers {
+    background-color:#ff3333;  /* vivid red */
+}
+.patriot {
+    background-color:#ff9933;  /* vivid orange */
+}
+.emmy {
+    background-color:#ff3399;  /* vivid pink */
+}
+.constitution {
+    background-color:#3399ff;  /* vivid blue */
+}
+.cheeseburger {
+    background-color:#ff0000;  /* bright red */
+}
+.talk-like-pirate {
+    background-color:#9933ff;  /* vivid violet */
+}
+.batman {
+    background-color:#ff8c1a;  /* vivid orange */
+}
+.pepperoni-pizza {
+    background-color:#ffb21a;  /* vivid orange */
+}
+.oktoberfest {
+    background-color:#ff0000;  /* bright red */
+}
+.intl-dayofpeace {
+    background-color:#9ab3ff;  /* pale blue */
+}
+.fall {
+    background-color:#98fb98;  /* very soft lime green */
+}
+.voter-registration {
+    background-color:#a6f4ff;  /* pale cyan */
+}
+.natl-daughters {
+    background-color:#ffc0cb;  /* very pale red (pink) */
+}
+.natl-pancake {
+    background-color:#ffff00;  /* yellow */
+}
+.natl-choc-milk {
+    background-color:#d3d3d3;  /* light gray */
+}
+.natl-drink-beer {
+    background-color:#00ff00;  /* dark green */
+}
+.natl-coffee {
+    background-color:#cd00cd;  /* strong magenta */
+}
+.intl-podcast {
+    background-color:#ccff9a;  /* pale green */
+}
