@@ -105,25 +105,46 @@ a:hover::after {
 
 /* World, National & International Days */
 .labor {
-    background-color:#e8e193;  /* very soft yellow */
+    background-color:#e893e8;  /* very soft magenta */
+}
+.intl-bacon {
+  background-color: #ff3399;  /* vivid pink */
+}
+intl-day-of-charity {
+  background-color: #9933ff;  /* vivid violet */
 }
 .cheese-pizza {
     background-color:#c2e7e7;  /* light grayish cyan */
 }
+.read-a-book {
+  background-color: #ff6666;  /* light red */
+}
 .natl-beer-lovers {
-    background-color:#ff3333;  /* vivid red */
+    background-color:#80bfff;  /* very light blue */
+}
+.star-trek  {
+  background-color:#ff80bf;  /* very light pink */
+}
+.suicide-prevention {
+  background-color:#ffbf80;  /* very light orange */
 }
 .patriot {
-    background-color:#ff9933;  /* vivid orange */
+  background-color:#ff3399;  /* vivid pink */
 }
-.emmy {
-    background-color:#ff3399;  /* vivid pink */
+.grandparents {
+  background-color:#3399ff;  /* vivid blue */
+}
+.day-of-democracy {
+  background-color:#ff6666;  /* light red */
+}
+.ozone {
+  background-color:#80bfff;  /* very light blue */
 }
 .constitution {
-    background-color:#3399ff;  /* vivid blue */
+  background-color: #ff3399;  /* vivid pink */
 }
 .cheeseburger {
-    background-color:#ff0000;  /* bright red */
+  background-color:#ff0000;  /* bright red */
 }
 .talk-like-pirate {
     background-color:#9933ff;  /* vivid violet */
@@ -131,7 +152,7 @@ a:hover::after {
 .batman {
     background-color:#ff8c1a;  /* vivid orange */
 }
-.pepperoni-pizza {
+.natl-pepperoni-pizza {
     background-color:#ffb21a;  /* vivid orange */
 }
 .oktoberfest {
@@ -146,6 +167,9 @@ a:hover::after {
 .voter-registration {
     background-color:#a6f4ff;  /* pale cyan */
 }
+.natl-comic-book {
+    background-color:#00ff00;  /* dark green */
+}  
 .natl-daughters {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
